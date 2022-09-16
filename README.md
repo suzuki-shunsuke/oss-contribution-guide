@@ -2,15 +2,21 @@
 
 Guide to create GitHub Issues and Pull Requests for OSS Contribution
 
-- Read the project's contribution guide
-- Show the thankfulness
-- Use English
-- Create an Issue before creating a Pull Request
-- Describe the detail as much as possible. Don't neglect to explain
-- Use GitHub Flavored Markdown properly. Especially, fenced code blocks should be used
-- Use the project Issue Template. Don't ignore the issue template
-- Describe **WHY** and **Background** in your Feature Request
-- Write good `How to reproduce`
+## Index
+
+- [Read the project's contribution guide](#read-the-projects-contribution-guide)
+- [Show the thankfulness](#show-the-thankfulness)
+- [Use English](#use-english)
+- [Create an Issue before creating a Pull Request](#create-an-issue-before-creating-a-pull-request)
+- [Describe the detail as much as possible. Don't neglect to explain](#describe-the-detail-as-much-as-possible-dont-neglect-to-explain)
+- [Use GitHub Flavored Markdown properly](#use-github-flavored-markdown-properly)
+- [Use the project Issue Template. Don't ignore the issue template](#use-the-project-issue-template-dont-ignore-the-issue-template)
+- [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
+- [Write good `How to reproduce`](#write-good-how-to-reproduce)
+
+## Read the project's contribution guide
+
+First, you should check and follow the project's contribution guide such as `CONTRIBUTING.md`.
 
 ## Show the thankfulness
 
@@ -23,6 +29,8 @@ I'm not good at English and my vocabulary is poor, but there are several phrases
 - Thank you for your explanation!
 - Thank you!
 - etc
+
+You should respect and appreciate all OSS maintainers.
 
 ## Use English
 
@@ -43,15 +51,18 @@ Of course, there are some exception such as fixing typo.
 The lack of the information would make the unneeded conversation and misunderstanding.
 You should be careful maintainers can handle the issue comfortably.
 
-## Use GitHub Flavored Markdown properly. Especially, fenced code blocks should be used
+## Use GitHub Flavored Markdown properly
 
+Especially, fenced code blocks should be used.
 [Fenced code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) make the comment easy to read.
 The readability of code without fenced block is terrible.
 
 ## Use the project Issue Template. Don't ignore the issue template
 
 Using the Issue Template, maintainers can get required information and communicate with you comfortably.
-If the Issue Template is ignored, maintainers can't get required information and unneeded conversation and misunderstanding would be required.
+If the Issue Template is ignored, maintainers may misunderstand the issue or they would have to ask you some question to get required information.
+
+If there is no issue template in the project, you should structure the description according to some common issue template.
 
 ## Describe **WHY** and **Background** in your Feature Request
 
@@ -77,7 +88,7 @@ If you try multiple versions, you should describe the result too.
 `Code` and `command` should be minimum, reproducible, and executable.
 
 Code unrelated to the issue should be removed.
-Everyone should be able to execute and reproduce the problem according to `How to reproduce`.
+Everyone should be able to execute the code and reproduce the problem according to `How to reproduce`.
 Code shouldn't be partial, because partial code isn't be executable.
 
 Private resources shouldn't be used in `Hot to reproduce` if it isn't needed.
@@ -88,7 +99,7 @@ For example, the report such as `an error occurs` and `the tool doesn't work` is
 If an error occurs, you should paste the command and standard (error) output.
 The screenshot may also be helpful, but a text in the screenshot can't be copied so you should paste the output as text too.
 
-## Reference
+## Related Articles
 
 - https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution
 
