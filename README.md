@@ -10,7 +10,7 @@ Guide to create GitHub Issues and Pull Requests for OSS Contribution
 - [Create an Issue before creating a Pull Request](#create-an-issue-before-creating-a-pull-request)
 - [Describe the detail as much as possible. Don't neglect to explain](#describe-the-detail-as-much-as-possible-dont-neglect-to-explain)
 - [Use GitHub Flavored Markdown properly](#use-github-flavored-markdown-properly)
-- [Use the project Issue Template. Don't ignore the issue template](#use-the-project-issue-template-dont-ignore-the-issue-template)
+- [Use Issue Templates](#use-issue-templates)
 - [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
 - [Write good `How to reproduce`](#write-good-how-to-reproduce)
 
