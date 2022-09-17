@@ -34,7 +34,7 @@ You should respect and appreciate all OSS maintainers.
 
 ## Use English
 
-This depends on the project, but if English is used in the project you should use English.
+If English is used in the project you should use English.
 For example, even if the project author is Japanese, you shouldn't use Japanese if English is used in the project.
 
 Machine Translator such as [DeepL](https://www.deepl.com/translator) would help you.
