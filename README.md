@@ -13,6 +13,8 @@ Guide to create GitHub Issues and Pull Requests for OSS Contribution
 - [Use Issue Templates](#use-issue-templates)
 - [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
 - [Write good `How to reproduce`](#write-good-how-to-reproduce)
+- [Avoid a force push after starting the review](#avoid-a-force-push-after-starting-the-review)
+- [Related Articles](#related-articles)
 
 ## Read the project's contribution guide
 
@@ -98,6 +100,12 @@ For example, if you can reproduce the issue with public Docker images, you shoul
 For example, a report such as `an error occurs` and `the tool doesn't work` is ambiguous.
 If an error occurs, you should paste the command and standard (error) output.
 A screenshot may also be helpful, but a text in the screenshot can't be copied so you should paste the output as text too.
+
+## Avoid a force push after starting the review
+
+After maintainers start reviewing or you ask maintainers for their review, you shouldn't do a force push,
+because a force push makes it difficult for maintainers to review the diff.
+Instead of a force push, you should push new commits, and then maintainers can review the diff.
 
 ## Related Articles
 
