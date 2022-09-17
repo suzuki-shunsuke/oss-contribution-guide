@@ -1,6 +1,6 @@
 # oss-contribution-guide
 
-Guide to create GitHub Issues and Pull Requests for OSS Contribution
+Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 
 ## Index
 
