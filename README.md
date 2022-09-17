@@ -20,7 +20,7 @@ First, you should check and follow the project's contribution guide such as `CON
 
 ## Show the thankfulness
 
-I'm not good at English and my vocabulary is poor, but there are several phrases to show your thankfulness.
+There are several phrases to show your thankfulness.
 
 - Thank you for your great project!
 - Thank you for your review!
@@ -37,7 +37,7 @@ You should respect and appreciate all OSS maintainers.
 This depends on the project, but if English is used in the project you should use English.
 For example, even if the project author is Japanese, you shouldn't use Japanese if English is used in the project.
 
-If you aren't good at English, you can translate your comment into English with Machine Translator such as DeepL and write both in comment.
+Machine Translator such as [DeepL](https://www.deepl.com/translator) would help you.
 
 ## Create an Issue before creating a Pull Request
 
@@ -57,10 +57,10 @@ Especially, you should use [fenced code blocks](https://docs.github.com/en/get-s
 Fenced code blocks make a comment easy to read.
 The readability of code without fenced block is terrible.
 
-## Use the project Issue Template. Don't ignore the issue template
+## Use Issue Templates
 
-Using the Issue Template, maintainers can get the required information and communicate with you comfortably.
-If the Issue Template is ignored, maintainers may misunderstand the issue or they would have to ask you some questions to get the required information.
+Using Issue Templates, maintainers can get the required information and communicate with you comfortably.
+If you ignore them, maintainers may misunderstand the issue or they would have to ask you some questions to get the required information.
 
 If there is no issue template in the project, you should structure the description according to some common issue template.
 
