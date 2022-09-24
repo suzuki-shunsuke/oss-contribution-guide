@@ -5,7 +5,6 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 ## Index
 
 - [Read the project's contribution guide](#read-the-projects-contribution-guide)
-- [Show the thankfulness](#show-the-thankfulness)
 - [Use English](#use-english)
 - [Create an Issue before creating a Pull Request](#create-an-issue-before-creating-a-pull-request)
 - [Use Issue Templates](#use-issue-templates)
@@ -20,20 +19,6 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 ## Read the project's contribution guide
 
 First, you should check and follow the project's contribution guide such as `CONTRIBUTING.md`.
-
-## Show the thankfulness
-
-There are several phrases to show your thankfulness.
-
-- Thank you for your great project!
-- Thank you for your review!
-- Thank you for your quick reply!
-- Thank you for your quick fix!
-- Thank you for your explanation!
-- Thank you!
-- etc
-
-You should respect and appreciate all OSS maintainers.
 
 ## Use English
 
