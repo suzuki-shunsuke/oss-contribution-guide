@@ -67,6 +67,9 @@ Sometimes your problem would be solved without new feature development.
 You should write the following information.
 
 - Environment
+  - OS (e.g. Windows, macOS, Ubuntu)
+  - Arch (e.g. amd64, arm64)
+  - tool versions: If multiple tools are used, you should write all tool versions
 - Code
 - command and result
 - `Expected Behavior` and `Actual Behavior`
