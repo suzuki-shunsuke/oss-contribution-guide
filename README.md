@@ -13,7 +13,7 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 - [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
 - [Write good `How to reproduce`](#write-good-how-to-reproduce)
 - [Avoid a force push after starting the review](#avoid-a-force-push-after-starting-the-review)
-- [Seperate commits that code was created or updated by command](#seperate-commits-that-code-was-created-or-updated-by-command)
+- [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
 - [Related Articles](#related-articles)
 
 ## Read the project's contribution guide
@@ -96,7 +96,7 @@ After maintainers start reviewing or you ask maintainers for their review, you s
 because a force push makes it difficult for maintainers to review the diff.
 Instead of a force push, you should push new commits, and then maintainers can review the diff.
 
-## Seperate commits that code was created or updated by command
+## Separate commits that code was created or updated by command
 
 If you generate some codes by command, you should separate commits for the change with other changes.
 And you should show the command in the commit message.
