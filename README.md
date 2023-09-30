@@ -80,7 +80,7 @@ If you try multiple versions, you should describe the result too.
 
 Code unrelated to the issue should be removed.
 Everyone should be able to execute the code and reproduce the problem according to `How to reproduce`.
-Code shouldn't be partial, because partial code isn't executable.
+Code shouldn't be partial because partial code isn't executable.
 
 Private resources shouldn't be used in `How to reproduce` if it isn't needed.
 For example, if you can reproduce the issue with public Docker images, you shouldn't use private Docker images.
@@ -92,7 +92,7 @@ A screenshot may also be helpful, but a text in the screenshot can't be copied s
 
 ## Avoid force pushes after opening pull requests
 
-After opening pull requests, you shouldn't do force pushes,
+After opening pull requests, you shouldn't do force pushes
 because force pushes make it difficult for maintainers to review the diff.
 And if maintainers push commits to pull requests, your force push may eliminate maintainers' commits.
 Instead of force pushes, you should push new commits, then maintainers can review the diff.
