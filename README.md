@@ -90,12 +90,14 @@ For example, a report such as `an error occurs` and `the tool doesn't work` is a
 If an error occurs, you should paste the command and standard (error) output.
 A screenshot may also be helpful, but a text in the screenshot can't be copied so you should paste the output as text too.
 
-## Avoid a force push after opening pull requests
+## Avoid force pushes after opening pull requests
 
-After opening pull requests, you shouldn't do a force push,
-because a force push makes it difficult for maintainers to review the diff.
+After opening pull requests, you shouldn't do force pushes,
+because force pushes make it difficult for maintainers to review the diff.
 And if maintainers push commits to pull requests, your force push may eliminate maintainers' commits.
-Instead of a force push, you should push new commits, then maintainers can review the diff.
+Instead of force pushes, you should push new commits, then maintainers can review the diff.
+
+For example, when maintaiers request a change to you, if you push a new commit maintainers can review it easily, but if you do a force push, maintainers can't understand easily what is changed by force push so the review is difficult.
 
 As an exception, if mantainers ask you to make commits history clean by rebasing, you should follow the request.
 
