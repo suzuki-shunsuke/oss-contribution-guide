@@ -12,7 +12,7 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 - [Use GitHub Flavored Markdown properly](#use-github-flavored-markdown-properly)
 - [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
 - [Write good `How to reproduce`](#write-good-how-to-reproduce)
-- [Avoid a force push after starting the review](#avoid-a-force-push-after-starting-the-review)
+- [Don't do force pushes after opening pull requests](#dont-do-force-pushes-after-opening-pull-requests)
 - [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
 - [Related Articles](#related-articles)
 
