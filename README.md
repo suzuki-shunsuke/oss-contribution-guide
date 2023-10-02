@@ -90,7 +90,7 @@ For example, a report such as `an error occurs` and `the tool doesn't work` is a
 If an error occurs, you should paste the command and standard (error) output.
 A screenshot may also be helpful, but a text in the screenshot can't be copied so you should paste the output as text too.
 
-## Avoid force pushes after opening pull requests
+## Don't do force pushes after opening pull requests
 
 After opening pull requests, you shouldn't do force pushes
 because force pushes make it difficult for maintainers to review the diff.
