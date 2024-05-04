@@ -46,6 +46,9 @@ git rebase --exec 'git commit --amend -n --no-edit -S' -i HEAD~3
 2. Then an editor is launched but you can close as is if the pull request doesn't include merge commits.
 
 If the pull request includes merge commits, you should edit the interactive rebase to drop merge commits and remove exec commands for dropped commits.
+Otherwise, merge commits are also rebased and they are included in your pull request's `Commits` and `Files changed`, which is hard to review the pull request.
+
+![image](https://github.com/aquaproj/aqua-registry/assets/13323303/82d35ebd-edd4-4041-8c31-d9dbe83c7ea1)
 
 e.g.
 
