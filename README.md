@@ -30,7 +30,7 @@ Machine Translator such as [DeepL](https://www.deepl.com/translator) would help 
 
 ## Create an Issue before creating a Pull Request
 
-You should create an Issue and describe your proposal or a bug and disucss how to implement or how to solve the problem before creating a Pull Request.
+You should create an Issue and describe your proposal or a bug and discuss how to implement or how to solve the problem before creating a Pull Request.
 You can discuss the detail of the implementation in the Pull Request, but you should describe the background of the pull request in the Issue.
 
 Of course, there are some exceptions such as fixing typo.
@@ -100,7 +100,7 @@ Instead of force pushes, you should push new commits, then maintainers can revie
 
 For example, when maintaiers request a change to you, if you push a new commit maintainers can review it easily, but if you do a force push, maintainers can't understand easily what is changed by force push so the review is difficult.
 
-As an exception, if mantainers ask you to make commits history clean by rebasing, you should follow the request.
+As an exception, if maintainers ask you to make commits history clean by rebasing, you should follow the request.
 
 ## Separate commits that code was created or updated by command
 

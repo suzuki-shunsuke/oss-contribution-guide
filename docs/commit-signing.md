@@ -25,7 +25,7 @@ To solve the issue, you have two options.
 1. Close the pull request and create a new one
 
 The option 2 is simple but a little bothersome.
-If your pull request includes merge commits and you're not familiar with Git, maybe the option 2 is bettter than the option 1.
+If your pull request includes merge commits and you're not familiar with Git, maybe the option 2 is better than the option 1.
 
 In this document, we use Git CLI, but maybe there are more user friendly GUI tools or something.
 
