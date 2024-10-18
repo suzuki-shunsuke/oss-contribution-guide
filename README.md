@@ -15,6 +15,7 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 - [Don't do force pushes after opening pull requests](#dont-do-force-pushes-after-opening-pull-requests)
 - [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
 - [Sign commits](#sign-commits)
+- [Add a newline at the end of file](add-a-newline-at-the-end-of-file)
 - [Related Articles](#related-articles)
 
 ## Read the project's contribution guide
@@ -112,7 +113,7 @@ This makes changes easy to understand and review.
 
 [Please see `Commit Signing`](docs/commit-signing.md).
 
-## Add a newline at the end of file.
+## Add a newline at the end of file
 
 Please add a newline at the end of file.
 Note that this doesn't mean add an empty line at the end of file.
