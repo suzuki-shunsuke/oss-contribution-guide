@@ -14,6 +14,7 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 - [Write good `How to reproduce`](#write-good-how-to-reproduce)
 - [Don't do force pushes after opening pull requests](#dont-do-force-pushes-after-opening-pull-requests)
 - [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
+- [Sign commits](#sign-commits)
 - [Related Articles](#related-articles)
 
 ## Read the project's contribution guide
@@ -106,6 +107,28 @@ As an exception, if mantainers ask you to make commits history clean by rebasing
 If you generate some codes by command, you should separate commits for the change with other changes.
 And you should show the command in the commit message.
 This makes changes easy to understand and review.
+
+## Sign commits
+
+[Please see `Commit Signing`](docs/commit-signing.md).
+
+## Add a newline at the end of file.
+
+Please add a newline at the end of file.
+
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/ae45e4c6-fadf-481f-9ad4-927ed296343c">
+
+The mark ⛔ means the file misses a newline at the end of file.
+
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/f569c07b-ef02-4009-8f94-c0ed44506e11">
+
+> No newline at end of file
+
+If you use VSCode, we recommend setting `"files.insertFinalNewline": true`.
+
+https://stackoverflow.com/questions/44704968/visual-studio-code-insert-newline-at-the-end-of-files
+
+Reference: [Why should text files end with a newline?](https://stackoverflow.com/a/729795/6364492)
 
 ## Related Articles
 
