@@ -1,28 +1,28 @@
 {
   "checksums": [
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.29.9/typos-v1.29.9-aarch64-apple-darwin.tar.gz",
-      "checksum": "D8CDF714BE02E1B5EA78376D257EBD8776E5BF2BD9EA92954B6289E7F5F041F9",
+      "id": "github_release/github.com/crate-ci/typos/v1.29.10/typos-v1.29.10-aarch64-apple-darwin.tar.gz",
+      "checksum": "789537A84B40034CDE80637BAF989E6D3866F41155E16C22659D9CA929015348",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.29.9/typos-v1.29.9-aarch64-unknown-linux-musl.tar.gz",
-      "checksum": "40DC4BF763FD38AA5998F10C1FE82A592ADA9FC03E239877E9222CC2FFABFEB9",
+      "id": "github_release/github.com/crate-ci/typos/v1.29.10/typos-v1.29.10-aarch64-unknown-linux-musl.tar.gz",
+      "checksum": "EB2260A1E722C30A94093C67CFD283EBEDBA65C2BB5CE6F8262550FBAB5DAF51",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.29.9/typos-v1.29.9-x86_64-apple-darwin.tar.gz",
-      "checksum": "2DBE0F9AC6A0377592C7D0CF6709CABA68765036C00646BD02D608E723B64014",
+      "id": "github_release/github.com/crate-ci/typos/v1.29.10/typos-v1.29.10-x86_64-apple-darwin.tar.gz",
+      "checksum": "FE270E559968FDF60BDEC32E5DE474689E761617C0823676E87A1F9780662ED2",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.29.9/typos-v1.29.9-x86_64-pc-windows-msvc.zip",
-      "checksum": "8E85BF422026EE15B9464796C48BFB26B53A040132ED5CDF905CBF60D4283764",
+      "id": "github_release/github.com/crate-ci/typos/v1.29.10/typos-v1.29.10-x86_64-pc-windows-msvc.zip",
+      "checksum": "795DAF8175179D2B1AB992FA3D5C45BAE6818D07B62B2F82A664A4787EB02326",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.29.9/typos-v1.29.9-x86_64-unknown-linux-musl.tar.gz",
-      "checksum": "EF985FE226E823297C9C2AA8553FB718BB11838B744C54429F2900D5DBFD5415",
+      "id": "github_release/github.com/crate-ci/typos/v1.29.10/typos-v1.29.10-x86_64-unknown-linux-musl.tar.gz",
+      "checksum": "853D001535396E52B1C4B335CD4A57975DD70B68EF80A2E630365C6D5A2E9236",
       "algorithm": "sha256"
     },
     {
