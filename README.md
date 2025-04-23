@@ -16,6 +16,7 @@ Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 - [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
 - [Sign commits](#sign-commits)
 - [Add a newline at the end of file](#add-a-newline-at-the-end-of-file)
+- [Allow changes to a pull request branch created from a fork](#allow-changes-to-a-pull-request-branch-created-from-a-fork)
 - [Related Articles](#related-articles)
 
 ## Read the project's contribution guide
@@ -131,6 +132,13 @@ If you use VSCode, we recommend setting `"files.insertFinalNewline": true`.
 https://stackoverflow.com/questions/44704968/visual-studio-code-insert-newline-at-the-end-of-files
 
 Reference: [Why should text files end with a newline?](https://stackoverflow.com/a/729795/6364492)
+
+## Allow changes to a pull request branch created from a fork
+
+[Allowing changes to a pull request branch created from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork)
+
+You should allow maintainers to push commits to your pull requests.
+Then maintainers can collaborate with you well.
 
 ## Related Articles
 
