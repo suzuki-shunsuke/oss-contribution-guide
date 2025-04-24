@@ -137,8 +137,7 @@ Reference: [Why should text files end with a newline?](https://stackoverflow.com
 
 [Allowing changes to a pull request branch created from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork)
 
-You should allow maintainers to push commits to your pull requests.
-Then maintainers can collaborate with you well.
+You should allow maintainers to push commits to your pull requests so that maintainers can collaborate with you well.
 
 ## Related Articles
 
