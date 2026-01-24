@@ -4,23 +4,6 @@
 
 Guide to creating GitHub Issues and Pull Requests for OSS Contribution
 
-## Index
-
-- [Read the project's contribution guide](#read-the-projects-contribution-guide)
-- [Use English](#use-english)
-- [Create an Issue before creating a Pull Request](#create-an-issue-before-creating-a-pull-request)
-- [Use Issue Templates](#use-issue-templates)
-- [Describe the detail as much as possible. Don't neglect to explain](#describe-the-detail-as-much-as-possible-dont-neglect-to-explain)
-- [Use GitHub Flavored Markdown properly](#use-github-flavored-markdown-properly)
-- [Describe **WHY** and **Background** in your Feature Request](#describe-why-and-background-in-your-feature-request)
-- [Write good `How to reproduce`](#write-good-how-to-reproduce)
-- [Don't do force pushes after opening pull requests](#dont-do-force-pushes-after-opening-pull-requests)
-- [Separate commits that code was created or updated by command](#separate-commits-that-code-was-created-or-updated-by-command)
-- [Sign commits](#sign-commits)
-- [Add a newline at the end of file](#add-a-newline-at-the-end-of-file)
-- [Allow changes to a pull request branch created from a fork](#allow-changes-to-a-pull-request-branch-created-from-a-fork)
-- [Related Articles](#related-articles)
-
 ## Read the project's contribution guide
 
 First, you should check and follow the project's contribution guide such as `CONTRIBUTING.md`.
