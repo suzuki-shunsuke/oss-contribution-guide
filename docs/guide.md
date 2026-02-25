@@ -1,7 +1,6 @@
 ## Use English
 
 Please use English in this project.
-For example, even if the project author is Japanese, you shouldn't use Japanese if English is used in the project.
 If you're not good at English, machine translator such as [DeepL](https://www.deepl.com/translator) would help you.
 
 ## Create an Issue before creating a Pull Request
