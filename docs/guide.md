@@ -87,7 +87,11 @@ This makes changes easy to understand and review.
 
 ## Sign commits
 
-[Please see `Commit Signing`](docs/commit-signing.md).
+You should configure your Git client to sign commits.
+
+- [Signing commits - GitHub](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+- [Generating a new GPG key - GitHub](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
+- [Adding a GPG key to your GitHub account - GitHub](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account)
 
 ## Add a newline at the end of file
 
