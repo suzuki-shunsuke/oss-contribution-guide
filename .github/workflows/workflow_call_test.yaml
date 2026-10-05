@@ -27,8 +27,7 @@ jobs:
               - aqua/imports/ghalint.yaml
 
   renovate-config-validator:
-    # Validate Renovate Configuration by renovate-config-validator.
-    uses: suzuki-shunsuke/github-action-renovate-config-validator/.github/workflows/renovate-config-validator.yaml@1e1604219a6b38ae9a10aff42a28a3656322c31a # v2.4.1
+    uses: $/.github/workflows/wc-renovate-config-validator.yaml
     needs: path-filter
     if: needs.path-filter.outputs.renovate-config-validator == 'true'
     permissions:
@@ -68,4 +67,3 @@ jobs:
         env:
           AQUA_GITHUB_TOKEN: ${{github.token}}
       - run: typos
-
