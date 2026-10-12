@@ -1,61 +1,6 @@
 {
   "checksums": [
     {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-aarch64-apple-darwin.tar.gz",
-      "checksum": "316D50A32C3726A80AB39C6D12141B70080498973C5E8A9B068B12CDE78B10C1",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz",
-      "checksum": "2AC5E37B3236B3C07DEC5CDF1527ACF143AEC4674A6089B0BF424D021B35E099",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-apple-darwin.tar.gz",
-      "checksum": "F3451079971633A7F769FB958FE06B0D64B5F1DC46DF0854AA1DDB9A6F4031D6",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-pc-windows-msvc.zip",
-      "checksum": "518F759FBA43205F17A717656054C1D25BC883455A6296989E9D021C6EDB7C59",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/crate-ci/typos/v1.51.1/typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz",
-      "checksum": "93C301FD4120FF076E2CC2A6D6A61CAB4A4BDB81899287C0938B452E56D1F454",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_darwin_amd64.tar.gz",
-      "checksum": "D2A0E8605333068065DCF4C9B7B7A24891EDA1750AC01FB755DFBA426A390883",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_darwin_arm64.tar.gz",
-      "checksum": "1262CAC411E27B4653E6B66B7B06580EBCC2026FDD903E12E6CB0E4591639DE6",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_linux_amd64.tar.gz",
-      "checksum": "98EE0E3330DE7286F470D1E89C03FF7CE70D7A5998BA0F15969C400447BE579C",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_linux_arm64.tar.gz",
-      "checksum": "203A22C70B40BB161626973AD2A8DD06AEB736699FC8E03DD425DEE8FF3406E6",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_windows_amd64.zip",
-      "checksum": "109EA9B39C8E263CEF924BD3B4FE5505964204F934CA60D986F4090D01A99BA5",
-      "algorithm": "sha256"
-    },
-    {
-      "id": "github_release/github.com/suzuki-shunsuke/ghalint/v1.5.6/ghalint_1.5.6_windows_arm64.zip",
-      "checksum": "C1219CAE104EA418A1CB4E7A02526A3FAD384C0788FA3540A86B316BB074D0D8",
-      "algorithm": "sha256"
-    },
-    {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.574.1/registry.yaml",
       "checksum": "B4F0E425BC813721E1BD4CD7DECA9FDEA64BE0AFD759F529E3122AE5E1B584F3",
       "algorithm": "sha256"
